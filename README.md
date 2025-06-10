@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Talish Raza</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Talish Raza</h1>
+<h3 align="center"> I’m Talish Raza, a passionate Python developer from India. I enjoy writing clean, efficient, and scalable code to solve real-world problems. With a strong foundation in Data Structures and Algorithms (DSA), I focus on building robust applications and automating tasks using Python.</h3>
 
 
 
@@ -12,11 +12,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talishraza" alt="talishraza" /></a> </p>
 
-- 🌱 I’m currently learning **PYTHON , SQL**
+- 🌱 I’m currently learning [@PYTHON](https://github.com/TalishRaza78/PYTHON) ,[@SQL](https://github.com/TalishRaza78/MYSQL)
 
-- 👯 I’m looking to collaborate on **Everything About Webdev**
+- 👯 I’m looking to collaborate on **PYTHON**
 
-- 💬 Ask me about **GITHUB**
+- 💬 Ask me about [GITHUB](https://github.com/TalishRaza78)
 
 - 📫 How to reach me **talish.s78@gmail.com**
 
