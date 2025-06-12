@@ -36,5 +36,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talishraza&show_icons=true&locale=en" alt="talishraza" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talishraza&" alt="talishraza" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TalishRaza78&" alt="TalishRaza78" /></p>
 
