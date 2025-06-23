@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **PYTHON**
 
-- 💬 Ask me about [GITHUB](https://github.com/TalishRaza78) [MYSQL]()
+- 💬 Ask me about [GITHUB](https://github.com/TalishRaza78) [MYSQL](https://github.com/TalishRaza78/MYSQL.git)
 
 - 📫 How to reach me **talish.s78@gmail.com**
 
