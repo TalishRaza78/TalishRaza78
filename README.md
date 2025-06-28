@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/9446da44-28f8-4618-8aad-15f8a6fd4262" alt="banner" width="950" height="350" />
 
-<h3 align="center"> I’m Talish Raza, a Python developer from India. I enjoy writing clean, efficient, and scalable code to solve real-world problems. With a strong foundation in Data Structures and Algorithms (DSA), I focus on building robust applications and automating tasks using Python.</h3>
+<h3 align="center"> I’m Talish Raza, a Python developer. I enjoy writing clean, efficient, and scalable code to solve real-world problems. With a strong foundation in Data Structures and Algorithms (DSA), I focus on building robust applications and automating tasks using Python.</h3>
 
 
 
