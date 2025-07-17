@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/9446da44-28f8-4618-8aad-15f8a6fd4262" alt="banner" width="960" height="360" />
+<img src="https://github.com/user-attachments/assets/9446da44-28f8-4618-8aad-15f8a6fd4262" alt="banner" width="950" height="350" />
 
 <h3 align="center"> I’m Talish Raza, a passinate Python developer. I enjoy writing clean, efficient, and scalable code to solve real-world problems. With a strong foundation in Data Structures and Algorithms, I focus on building robust applications .</h3>
 
